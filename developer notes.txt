@@ -1,0 +1,4 @@
+A couple of things:
+
+* I don't have the equipment to test any of this (I only have an old Win7 machine that is too weak to run a virtual Mac), so I'm guessing this has errors and it will probably won't even compile.
+* There was no mention of scrolling so I didn't implement it but I did put in preparation for it (the xOffset variable)
